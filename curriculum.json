@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "day": 1,
+    "slot": "morning",
+    "folder": "day01/morning_subnet_calculator",
+    "title": "IPv4 Subnet & CIDR Calculator",
+    "summary": "Calculate network, broadcast, mask and host range from an IPv4 address in CIDR notation.",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "day": 1,
+    "slot": "noon",
+    "folder": "day01/noon_password_entropy",
+    "title": "Password Strength & Entropy Checker",
+    "summary": "Estimate password entropy from character pools and flag common weak patterns.",
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "day": 1,
+    "slot": "evening",
+    "folder": "day01/evening_http_headers",
+    "title": "HTTP Security Header Inspector",
+    "summary": "Fetch a URL and report which common security response headers are present or missing.",
+    "status": "pending"
+  },
+  {
+    "id": 4,
+    "day": 2,
+    "slot": "morning",
+    "folder": "day02/morning_port_checker",
+    "title": "Single-Host TCP Port & Banner Checker",
+    "summary": "Test whether TCP ports are open on one host and read a service banner if offered.",
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "day": 2,
+    "slot": "noon",
+    "folder": "day02/noon_hash_verifier",
+    "title": "SHA-256 File Integrity Verifier",
+    "summary": "Compute a file's SHA-256 hash and compare it to an expected value.",
+    "status": "pending"
+  },
+  {
+    "id": 6,
+    "day": 2,
+    "slot": "evening",
+    "folder": "day02/evening_cipher_lab",
+    "title": "Caesar & XOR Cipher Lab",
+    "summary": "Encrypt and decrypt text with a Caesar shift and a repeating-key XOR.",
+    "status": "pending"
+  },
+  {
+    "id": 7,
+    "day": 3,
+    "slot": "morning",
+    "folder": "day03/morning_ssh_log_counter",
+    "title": "SSH Auth Log Failed-Login Counter",
+    "summary": "Count failed SSH logins per source IP from an auth log file.",
+    "status": "pending"
+  },
+  {
+    "id": 8,
+    "day": 3,
+    "slot": "noon",
+    "folder": "day03/noon_url_parser",
+    "title": "URL & Query Parameter Inspector",
+    "summary": "Split a URL into its parts and list its query parameters.",
+    "status": "pending"
+  },
+  {
+    "id": 9,
+    "day": 3,
+    "slot": "evening",
+    "folder": "day03/evening_dns_lookup",
+    "title": "DNS Record Lookup Tool",
+    "summary": "Resolve a hostname to its IP addresses using the standard library.",
+    "status": "pending"
+  },
+  {
+    "id": 10,
+    "day": 4,
+    "slot": "morning",
+    "folder": "day04/morning_permission_auditor",
+    "title": "Linux File Permission & SUID Auditor",
+    "summary": "Walk a directory and flag world-writable files and SUID/SGID binaries.",
+    "status": "pending"
+  },
+  {
+    "id": 11,
+    "day": 4,
+    "slot": "noon",
+    "folder": "day04/noon_codec_cli",
+    "title": "Base64/Hex/URL Encoder-Decoder CLI",
+    "summary": "Encode and decode text as Base64, hex or URL-encoded strings from the command line.",
+    "status": "pending"
+  },
+  {
+    "id": 12,
+    "day": 4,
+    "slot": "evening",
+    "folder": "day04/evening_tls_expiry",
+    "title": "TLS Certificate Expiry Checker",
+    "summary": "Connect to a host over TLS and report how many days remain on its certificate.",
+    "status": "pending"
+  },
+  {
+    "id": 13,
+    "day": 5,
+    "slot": "morning",
+    "folder": "day05/morning_ipv4_unpacker",
+    "title": "Raw IPv4 Header Bitwise Unpacker",
+    "summary": "Parse the fields of a raw 20-byte IPv4 header using struct and bit operations.",
+    "status": "pending"
+  },
+  {
+    "id": 14,
+    "day": 5,
+    "slot": "noon",
+    "folder": "day05/noon_config_scanner",
+    "title": "Config & .env Keyword Scanner",
+    "summary": "Scan config files for keys like password, secret and token that may hold credentials.",
+    "status": "pending"
+  },
+  {
+    "id": 15,
+    "day": 5,
+    "slot": "evening",
+    "folder": "day05/evening_cookie_auditor",
+    "title": "HTTP Cookie Security Flag Checker",
+    "summary": "Check Set-Cookie headers for Secure, HttpOnly and SameSite flags.",
+    "status": "pending"
+  },
+  {
+    "id": 16,
+    "day": 6,
+    "slot": "morning",
+    "folder": "day06/morning_mac_lookup",
+    "title": "MAC Address & Vendor Prefix Lookup",
+    "summary": "Validate a MAC address and look up its vendor prefix in a small local table.",
+    "status": "pending"
+  },
+  {
+    "id": 17,
+    "day": 6,
+    "slot": "noon",
+    "folder": "day06/noon_dir_scanner_sim",
+    "title": "Local Directory Wordlist Simulator",
+    "summary": "Simulate directory discovery by checking a wordlist against a local folder tree.",
+    "status": "pending"
+  },
+  {
+    "id": 18,
+    "day": 6,
+    "slot": "evening",
+    "folder": "day06/evening_json_log_filter",
+    "title": "JSON Log Filter & Anomaly Counter",
+    "summary": "Filter JSON-lines logs by field and count unusual events per source.",
+    "status": "pending"
+  },
+  {
+    "id": 19,
+    "day": 7,
+    "slot": "morning",
+    "folder": "day07/morning_whois_parser",
+    "title": "WHOIS & Domain Age Parser",
+    "summary": "Parse raw WHOIS text for registrar and dates and compute the domain's age.",
+    "status": "pending"
+  },
+  {
+    "id": 20,
+    "day": 7,
+    "slot": "noon",
+    "folder": "day07/noon_sqli_xss_detector",
+    "title": "Basic SQLi & XSS Pattern Detector",
+    "summary": "Flag input strings that match simple SQL injection and XSS patterns.",
+    "status": "pending"
+  },
+  {
+    "id": 21,
+    "day": 7,
+    "slot": "evening",
+    "folder": "day07/evening_week1_toolkit",
+    "title": "Week-1 Mini Security Toolkit Menu",
+    "summary": "Combine selected week-1 tools behind one simple text menu.",
+    "status": "pending"
+  }
+]
