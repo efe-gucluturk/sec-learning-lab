@@ -28,7 +28,7 @@ pytest day01/morning_subnet_calculator
 
 | # | Day | Slot | Folder | Exercise | Status |
 |---|-----|------|--------|----------|--------|
-| 1 | 1 | Morning | `day01/morning_subnet_calculator` | IPv4 Subnet & CIDR Calculator | Pending |
+| 1 | 1 | Morning | `day01/morning_subnet_calculator` | IPv4 Subnet & CIDR Calculator | Completed |
 | 2 | 1 | Noon | `day01/noon_password_entropy` | Password Strength & Entropy Checker | Pending |
 | 3 | 1 | Evening | `day01/evening_http_headers` | HTTP Security Header Inspector | Pending |
 | 4 | 2 | Morning | `day02/morning_port_checker` | Single-Host TCP Port & Banner Checker | Pending |

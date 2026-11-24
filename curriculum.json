@@ -6,7 +6,7 @@
     "folder": "day01/morning_subnet_calculator",
     "title": "IPv4 Subnet & CIDR Calculator",
     "summary": "Calculate network, broadcast, mask and host range from an IPv4 address in CIDR notation.",
-    "status": "pending"
+    "status": "done"
   },
   {
     "id": 2,
