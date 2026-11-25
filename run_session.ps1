@@ -1,3 +1,4 @@
+$mtx = New-Object System.Threading.Mutex($false, "Global\SecLabQueue"); try { [void]$mtx.WaitOne() } catch [System.Threading.AbandonedMutexException] {}
 # run_session.ps1
 # Runs the next pending exercise from curriculum.json with Claude Code,
 # commits and pushes the result, and removes the scheduled tasks after exercise 21.
@@ -83,3 +84,4 @@ $remaining = @(Get-Curriculum | Where-Object { $_.status -eq "pending" })
 if ($remaining.Count -eq 0) {
     Stop-LabSchedule
 }
+

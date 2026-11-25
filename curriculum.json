@@ -15,7 +15,7 @@
     "folder": "day01/noon_password_entropy",
     "title": "Password Strength & Entropy Checker",
     "summary": "Estimate password entropy from character pools and flag common weak patterns.",
-    "status": "pending"
+    "status": "done"
   },
   {
     "id": 3,
