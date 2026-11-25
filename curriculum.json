@@ -24,7 +24,7 @@
     "folder": "day01/evening_http_headers",
     "title": "HTTP Security Header Inspector",
     "summary": "Fetch a URL and report which common security response headers are present or missing.",
-    "status": "pending"
+    "status": "done"
   },
   {
     "id": 4,
