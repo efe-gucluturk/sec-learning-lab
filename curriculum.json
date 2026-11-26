@@ -42,7 +42,7 @@
     "folder": "day02/noon_hash_verifier",
     "title": "SHA-256 File Integrity Verifier",
     "summary": "Compute a file's SHA-256 hash and compare it to an expected value.",
-    "status": "pending"
+    "status": "done"
   },
   {
     "id": 6,
