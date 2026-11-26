@@ -33,7 +33,7 @@ pytest day01/morning_subnet_calculator
 | 3 | 1 | Evening | `day01/evening_http_headers` | HTTP Security Header Inspector | Completed |
 | 4 | 2 | Morning | `day02/morning_port_checker` | Single-Host TCP Port & Banner Checker | Completed |
 | 5 | 2 | Noon | `day02/noon_hash_verifier` | SHA-256 File Integrity Verifier | Completed |
-| 6 | 2 | Evening | `day02/evening_cipher_lab` | Caesar & XOR Cipher Lab | Pending |
+| 6 | 2 | Evening | `day02/evening_cipher_lab` | Caesar & XOR Cipher Lab | Completed |
 | 7 | 3 | Morning | `day03/morning_ssh_log_counter` | SSH Auth Log Failed-Login Counter | Pending |
 | 8 | 3 | Noon | `day03/noon_url_parser` | URL & Query Parameter Inspector | Pending |
 | 9 | 3 | Evening | `day03/evening_dns_lookup` | DNS Record Lookup Tool | Pending |

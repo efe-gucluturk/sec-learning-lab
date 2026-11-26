@@ -51,7 +51,7 @@
     "folder": "day02/evening_cipher_lab",
     "title": "Caesar & XOR Cipher Lab",
     "summary": "Encrypt and decrypt text with a Caesar shift and a repeating-key XOR.",
-    "status": "pending"
+    "status": "done"
   },
   {
     "id": 7,
