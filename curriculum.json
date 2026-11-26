@@ -33,7 +33,7 @@
     "folder": "day02/morning_port_checker",
     "title": "Single-Host TCP Port & Banner Checker",
     "summary": "Test whether TCP ports are open on one host and read a service banner if offered.",
-    "status": "pending"
+    "status": "done"
   },
   {
     "id": 5,
