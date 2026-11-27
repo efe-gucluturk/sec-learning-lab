@@ -78,7 +78,7 @@
     "folder": "day03/evening_dns_lookup",
     "title": "DNS Record Lookup Tool",
     "summary": "Resolve a hostname to its IP addresses using the standard library.",
-    "status": "pending"
+    "status": "done"
   },
   {
     "id": 10,
