@@ -69,7 +69,7 @@
     "folder": "day03/noon_url_parser",
     "title": "URL & Query Parameter Inspector",
     "summary": "Split a URL into its parts and list its query parameters.",
-    "status": "pending"
+    "status": "done"
   },
   {
     "id": 9,

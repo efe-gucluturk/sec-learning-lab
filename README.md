@@ -41,7 +41,7 @@ pytest day01/morning_subnet_calculator
 | 5 | 2 | Noon | `day02/noon_hash_verifier` | SHA-256 File Integrity Verifier | Completed |
 | 6 | 2 | Evening | `day02/evening_cipher_lab` | Caesar & XOR Cipher Lab | Completed |
 | 7 | 3 | Morning | `day03/morning_ssh_log_counter` | SSH Auth Log Failed-Login Counter | Completed |
-| 8 | 3 | Noon | `day03/noon_url_parser` | URL & Query Parameter Inspector | Pending |
+| 8 | 3 | Noon | `day03/noon_url_parser` | URL & Query Parameter Inspector | Completed |
 | 9 | 3 | Evening | `day03/evening_dns_lookup` | DNS Record Lookup Tool | Pending |
 | 10 | 4 | Morning | `day04/morning_permission_auditor` | Linux File Permission & SUID Auditor | Pending |
 | 11 | 4 | Noon | `day04/noon_codec_cli` | Base64/Hex/URL Encoder-Decoder CLI | Pending |
