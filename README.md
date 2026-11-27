@@ -6,6 +6,12 @@ Each day has 3 short sessions (morning, noon, evening), so there are 21 small ex
 
 These are learning exercises. They may be simplified, and they should only be pointed at systems you own or have permission to test.
 
+## Authorized & Educational Use Only / Yalnızca Yetkili ve Eğitim Amaçlı Kullanım
+
+These exercises are for **authorized and educational use only**. Run the network, log and header tools only against systems you own or have explicit written permission to test. Provided under the MIT License (see `LICENSE`) without warranty; the author accepts no liability for misuse.
+
+**Yalnızca Yetkili ve Eğitim Amaçlı Kullanım.** Bu proje yalnızca sahibi olduğunuz veya açık yazılı izin aldığınız sistemlerde ve eğitim amacıyla kullanılmalıdır. İzinsiz kullanım 5237 sayılı Türk Ceza Kanunu m. 243–244 kapsamında suç oluşturabilir; yazar kötüye kullanımdan sorumlu tutulamaz.
+
 ## Layout
 
 ```

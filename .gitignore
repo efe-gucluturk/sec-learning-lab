@@ -31,3 +31,9 @@ session_runner.log
 Thumbs.db
 .vscode/
 .idea/
+
+# Audit 2026-11-27: logs, keys, local data and agent settings never committed
+output/
+Recon-Karneler/
+*.dump
+.claude/settings.local.json
