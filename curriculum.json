@@ -60,7 +60,7 @@
     "folder": "day03/morning_ssh_log_counter",
     "title": "SSH Auth Log Failed-Login Counter",
     "summary": "Count failed SSH logins per source IP from an auth log file.",
-    "status": "pending"
+    "status": "done"
   },
   {
     "id": 8,
